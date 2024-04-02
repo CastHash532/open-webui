@@ -1,0 +1,7 @@
+https://docs.openwebui.com/getting-started/#how-to-install-without-docker
+🚀 Getting Started | Open WebUI
+How to Install 🚀
+instead of bash start.sh use sh dev.sh to hot reload the backend
+you need to have both the frontend and the backend running
+two terminals, one for npm run dev and the other one for sh dev.sh
+hope that helps
